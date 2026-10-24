@@ -1,0 +1,2 @@
+html, body, #root { height: 100%; margin: 0; background: #1d2b3a; overflow: hidden; }
+body { font-family: Georgia, "Times New Roman", serif; -webkit-user-select: none; user-select: none; }
